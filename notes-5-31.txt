@@ -1,0 +1,9 @@
+Left align text in tooltip, right align numbers
+We should probably just view one type of data for the map, tooltip, and comparison bar charts (DISCUSS WITH TEAM)
+
+Parts I need to change in order to implement gender/age stuff:
+
+Change colors to represent Gender, age, etc.
+    Probably need to have values in dropdown menu be the same as their names in the JSON file
+    
+Change tooltip so that it shows how many of that gender/age/etc.
